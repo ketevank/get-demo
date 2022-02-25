@@ -10,4 +10,4 @@ content2git
 2nd branch content yay
 what next
 
-conflict main
+conflict main & feature
